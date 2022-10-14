@@ -1,5 +1,5 @@
 # fifa2008 es mejor
- 1.- Ver cómo se clasifican mejores y bajos jugadores, por posición y overrall /n
+ 1.- Ver cómo se clasifican mejores y bajos jugadores, por posición y overrall  
  2.- Ver gráficos que nos ayuden a inferir cuàndo un jugador es mejor que el otro. (Qué gráficos y qué parámetros) / Distribución (21/10/2022)
  3.- Comenzar el informe a presentar 
  4.- Ir colocando en el informe los gráficos que podríamos ir sacando
