@@ -8,7 +8,4 @@
  7.- Construir la red Neuronal y validar.  
  8.- agregar resultados, e ir viendo cuál nos da mejor accuarency and value lost  
  5.- Colocar ramas para cada paso con la red neuronal, hasta tener la más óptima. optional.  
- 6.- Informe final  
-klkpaso
- 
- 
+ 6.- Informe final
