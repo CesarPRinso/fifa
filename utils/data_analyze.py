@@ -11,6 +11,7 @@ from matplotlib.offsetbox import (OffsetImage, AnnotationBbox)
 import seaborn as sns
 import pandas as pd
 
+
 # mostrar histograma
 def load_hist(data_players):
     # obtener las 5 filas superiores

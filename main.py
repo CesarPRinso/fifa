@@ -23,7 +23,8 @@ if __name__ == '__main__':
     print("=====================================")
     print("cantidad de jugadores por País")
     print("=====================================")
-    print(data_players['Nationality'].value_counts().head(8))
+    #print(data_players['Nationality'].value_counts().head(8))
     #data_analyze.players_wages(data_players)
-    data_analyze.players_value(data_players)
+    # data_analyze.age_distribution(data_players)
+    data_players.isnull().sum()
 
